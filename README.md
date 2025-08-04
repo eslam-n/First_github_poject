@@ -1,6 +1,7 @@
 # First_github_poject
 
-
-fdfahdfjshs hfa
+hello github community 
 
 ## getting to know github 
+
+I became a hacker 😎
